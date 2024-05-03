@@ -44,7 +44,6 @@ husbandry/root
 │ └>husbandry/allay_deliver_cake_to_note_block
 └>husbandry/breed_an_animal
 │ └>husbandry/bred_all_animals
-│ └>husbandry/bred_all_animals
 └>husbandry/fishy_business
 │ └>husbandry/tactical_fishing
 │   └>husbandry/axolotl_in_a_bucket
