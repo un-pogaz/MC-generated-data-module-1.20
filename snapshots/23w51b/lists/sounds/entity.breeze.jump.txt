@@ -1,2 +1,0 @@
-minecraft:mob/breeze/jump1
-minecraft:mob/breeze/jump2

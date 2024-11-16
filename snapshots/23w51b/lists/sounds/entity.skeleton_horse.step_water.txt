@@ -1,6 +1,0 @@
-minecraft:mob/horse/skeleton/water/soft1
-minecraft:mob/horse/skeleton/water/soft2
-minecraft:mob/horse/skeleton/water/soft3
-minecraft:mob/horse/skeleton/water/soft4
-minecraft:mob/horse/skeleton/water/soft5
-minecraft:mob/horse/skeleton/water/soft6

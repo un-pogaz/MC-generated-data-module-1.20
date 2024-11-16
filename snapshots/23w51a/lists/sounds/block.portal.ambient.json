@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "attenuation_distance": 10,
-      "name": "portal/portal"
-    }
-  ],
-  "subtitle": "subtitles.block.portal.ambient"
-}

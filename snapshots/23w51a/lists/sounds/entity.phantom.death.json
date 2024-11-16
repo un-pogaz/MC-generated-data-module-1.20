@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/phantom/death1",
-    "mob/phantom/death2",
-    "mob/phantom/death3"
-  ],
-  "subtitle": "subtitles.entity.phantom.death"
-}

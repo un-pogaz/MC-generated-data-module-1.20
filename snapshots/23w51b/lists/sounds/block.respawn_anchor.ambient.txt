@@ -1,3 +1,0 @@
-minecraft:block/respawn_anchor/ambient1
-minecraft:block/respawn_anchor/ambient2
-minecraft:block/respawn_anchor/ambient3

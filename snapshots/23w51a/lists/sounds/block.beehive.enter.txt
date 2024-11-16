@@ -1,2 +1,0 @@
-minecraft:block/beehive/enter
-minecraft:block/beehive/enter

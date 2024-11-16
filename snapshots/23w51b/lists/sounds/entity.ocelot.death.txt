@@ -1,3 +1,0 @@
-minecraft:mob/cat/ocelot/death1
-minecraft:mob/cat/ocelot/death2
-minecraft:mob/cat/ocelot/death3

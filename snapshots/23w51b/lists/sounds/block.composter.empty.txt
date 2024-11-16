@@ -1,3 +1,0 @@
-minecraft:block/composter/empty1
-minecraft:block/composter/empty2
-minecraft:block/composter/empty3

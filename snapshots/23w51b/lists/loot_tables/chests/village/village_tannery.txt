@@ -1,8 +1,0 @@
-minecraft:leather
-minecraft:leather_chestplate
-minecraft:leather_boots
-minecraft:leather_helmet
-minecraft:bread
-minecraft:leather_leggings
-minecraft:saddle
-minecraft:emerald

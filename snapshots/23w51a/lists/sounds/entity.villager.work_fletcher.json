@@ -1,7 +1,0 @@
-{
-  "sounds": [
-    "block/fletching_table/fletching_table1",
-    "block/fletching_table/fletching_table2"
-  ],
-  "subtitle": "subtitles.entity.villager.work_fletcher"
-}

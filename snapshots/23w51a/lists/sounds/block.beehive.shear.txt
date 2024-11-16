@@ -1,3 +1,0 @@
-minecraft:block/beehive/shear
-minecraft:block/beehive/shear
-minecraft:block/beehive/shear

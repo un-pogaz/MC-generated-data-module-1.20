@@ -1,3 +1,0 @@
-minecraft:mob/breeze/hurt1
-minecraft:mob/breeze/hurt2
-minecraft:mob/breeze/hurt3

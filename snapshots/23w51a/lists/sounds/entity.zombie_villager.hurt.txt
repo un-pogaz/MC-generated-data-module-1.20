@@ -1,2 +1,0 @@
-minecraft:mob/zombie_villager/hurt1
-minecraft:mob/zombie_villager/hurt2

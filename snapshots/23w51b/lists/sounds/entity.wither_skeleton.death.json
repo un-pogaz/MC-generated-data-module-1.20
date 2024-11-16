@@ -1,7 +1,0 @@
-{
-  "sounds": [
-    "mob/wither_skeleton/death1",
-    "mob/wither_skeleton/death2"
-  ],
-  "subtitle": "subtitles.entity.wither_skeleton.death"
-}

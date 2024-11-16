@@ -1,3 +1,0 @@
-minecraft:block/copper_door/toggle1
-minecraft:block/copper_door/toggle2
-minecraft:block/copper_door/toggle3

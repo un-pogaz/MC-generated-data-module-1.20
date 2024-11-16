@@ -1,9 +1,0 @@
-minecraft:item/trident/return1
-minecraft:item/trident/return2
-minecraft:item/trident/return2
-minecraft:item/trident/return2
-minecraft:item/trident/return2
-minecraft:item/trident/return3
-minecraft:item/trident/return3
-minecraft:item/trident/return3
-minecraft:item/trident/return3

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "block/copper_bulb/place1",
-    "block/copper_bulb/place2",
-    "block/copper_bulb/place3",
-    "block/copper_bulb/place4"
-  ],
-  "subtitle": "subtitles.block.generic.place"
-}

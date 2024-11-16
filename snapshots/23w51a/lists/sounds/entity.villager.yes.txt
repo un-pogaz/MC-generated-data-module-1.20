@@ -1,3 +1,0 @@
-minecraft:mob/villager/yes1
-minecraft:mob/villager/yes2
-minecraft:mob/villager/yes3

@@ -1,2 +1,0 @@
-minecraft:entity/pufferfish/blow_up1
-minecraft:entity/pufferfish/blow_up2

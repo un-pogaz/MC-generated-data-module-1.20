@@ -1,2 +1,0 @@
-minecraft:entity/pufferfish/blow_out1
-minecraft:entity/pufferfish/blow_out2

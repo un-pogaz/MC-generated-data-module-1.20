@@ -1,3 +1,0 @@
-minecraft:block/enchantment_table/enchant1
-minecraft:block/enchantment_table/enchant2
-minecraft:block/enchantment_table/enchant3

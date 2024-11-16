@@ -1,3 +1,0 @@
-minecraft:mob/zombie_villager/say1
-minecraft:mob/zombie_villager/say2
-minecraft:mob/zombie_villager/say3

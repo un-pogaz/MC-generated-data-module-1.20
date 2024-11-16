@@ -1,3 +1,0 @@
-minecraft:mob/chicken/plop
-minecraft:mob/chicken/plop
-minecraft:mob/chicken/plop

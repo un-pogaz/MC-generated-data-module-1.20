@@ -1,3 +1,0 @@
-minecraft:mob/sniffer/eat1
-minecraft:mob/sniffer/eat2
-minecraft:mob/sniffer/eat3

@@ -1,3 +1,0 @@
-minecraft:mob/frog/death1
-minecraft:mob/frog/death2
-minecraft:mob/frog/death3

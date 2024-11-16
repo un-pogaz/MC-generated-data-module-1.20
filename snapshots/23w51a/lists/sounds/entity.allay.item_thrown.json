@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "mob/allay/item_thrown1",
-      "volume": 0.25
-    }
-  ],
-  "subtitle": "subtitles.entity.allay.item_thrown"
-}

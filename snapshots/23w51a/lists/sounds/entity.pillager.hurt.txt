@@ -1,3 +1,0 @@
-minecraft:mob/pillager/hurt1
-minecraft:mob/pillager/hurt2
-minecraft:mob/pillager/hurt3

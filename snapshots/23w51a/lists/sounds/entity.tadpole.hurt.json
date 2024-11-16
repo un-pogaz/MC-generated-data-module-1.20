@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/tadpole/hurt1",
-    "mob/tadpole/hurt2",
-    "mob/tadpole/hurt3",
-    "mob/tadpole/hurt4"
-  ],
-  "subtitle": "subtitles.entity.tadpole.hurt"
-}

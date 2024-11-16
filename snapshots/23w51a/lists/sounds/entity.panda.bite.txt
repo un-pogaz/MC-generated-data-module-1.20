@@ -1,3 +1,0 @@
-minecraft:mob/panda/bite1
-minecraft:mob/panda/bite2
-minecraft:mob/panda/bite3

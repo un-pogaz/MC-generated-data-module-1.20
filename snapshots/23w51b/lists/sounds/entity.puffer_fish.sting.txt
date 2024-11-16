@@ -1,2 +1,0 @@
-minecraft:entity/pufferfish/sting1
-minecraft:entity/pufferfish/sting2

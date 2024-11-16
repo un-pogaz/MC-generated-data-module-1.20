@@ -1,3 +1,0 @@
-minecraft:mob/dolphin/hurt1
-minecraft:mob/dolphin/hurt2
-minecraft:mob/dolphin/hurt3

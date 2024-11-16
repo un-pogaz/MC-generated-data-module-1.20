@@ -1,2 +1,0 @@
-minecraft:mob/zombified_piglin/zpighurt1
-minecraft:mob/zombified_piglin/zpighurt2

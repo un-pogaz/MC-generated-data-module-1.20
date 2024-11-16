@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/dolphin/splash1",
-    "mob/dolphin/splash2",
-    "mob/dolphin/splash3"
-  ],
-  "subtitle": "subtitles.entity.dolphin.splash"
-}

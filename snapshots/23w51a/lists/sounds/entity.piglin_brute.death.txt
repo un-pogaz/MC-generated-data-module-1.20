@@ -1,3 +1,0 @@
-minecraft:mob/piglin_brute/death1
-minecraft:mob/piglin_brute/death2
-minecraft:mob/piglin_brute/death3

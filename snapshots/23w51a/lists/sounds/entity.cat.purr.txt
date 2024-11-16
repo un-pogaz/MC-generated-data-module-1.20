@@ -1,3 +1,0 @@
-minecraft:mob/cat/purr1
-minecraft:mob/cat/purr2
-minecraft:mob/cat/purr3

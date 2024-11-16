@@ -1,2 +1,0 @@
-minecraft:mob/warden/attack_impact_1
-minecraft:mob/warden/attack_impact_2

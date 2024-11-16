@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/drowned/convert1",
-    "mob/drowned/convert2",
-    "mob/drowned/convert3"
-  ],
-  "subtitle": "subtitles.entity.zombie.converted_to_drowned"
-}

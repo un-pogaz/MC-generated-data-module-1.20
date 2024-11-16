@@ -1,2 +1,0 @@
-minecraft:mob/vindication_illager/death1
-minecraft:mob/vindication_illager/death2

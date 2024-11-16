@@ -1,3 +1,0 @@
-minecraft:music/game/water/axolotl
-minecraft:music/game/water/dragon_fish
-minecraft:music/game/water/shuniji

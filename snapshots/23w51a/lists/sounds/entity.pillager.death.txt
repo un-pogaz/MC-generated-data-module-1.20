@@ -1,2 +1,0 @@
-minecraft:mob/pillager/death1
-minecraft:mob/pillager/death2

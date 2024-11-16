@@ -1,2 +1,0 @@
-minecraft:mob/allay/death1
-minecraft:mob/allay/death2

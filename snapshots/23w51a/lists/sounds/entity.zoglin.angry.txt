@@ -1,3 +1,0 @@
-minecraft:mob/zoglin/angry1
-minecraft:mob/zoglin/angry2
-minecraft:mob/zoglin/angry3

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "ambient/nether/warped_forest/ambience",
-      "stream": true,
-      "volume": 0.71
-    }
-  ]
-}

@@ -1,3 +1,0 @@
-minecraft:block/beehive/exit
-minecraft:block/beehive/exit
-minecraft:block/beehive/exit

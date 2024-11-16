@@ -1,3 +1,0 @@
-minecraft:ui/cartography_table/drawmap1
-minecraft:ui/cartography_table/drawmap2
-minecraft:ui/cartography_table/drawmap3

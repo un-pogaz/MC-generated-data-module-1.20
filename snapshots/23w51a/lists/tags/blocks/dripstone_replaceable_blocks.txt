@@ -1,1 +1,0 @@
-#minecraft:base_stone_overworld

@@ -1,2 +1,0 @@
-minecraft:clay
-minecraft:moss_block

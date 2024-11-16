@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "entity.zombie.ambient",
-      "type": "event"
-    }
-  ],
-  "subtitle": "subtitles.entity.zombie.ambient"
-}

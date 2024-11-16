@@ -1,1 +1,0 @@
-minecraft:ambient/nether/nether_wastes/ambience

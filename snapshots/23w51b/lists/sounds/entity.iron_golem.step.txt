@@ -1,4 +1,0 @@
-minecraft:mob/irongolem/walk1
-minecraft:mob/irongolem/walk2
-minecraft:mob/irongolem/walk3
-minecraft:mob/irongolem/walk4

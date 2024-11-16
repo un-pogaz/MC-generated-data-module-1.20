@@ -1,3 +1,0 @@
-minecraft:drowned
-minecraft:guardian
-minecraft:elder_guardian

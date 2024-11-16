@@ -1,3 +1,0 @@
-minecraft:mob/ravager/death1
-minecraft:mob/ravager/death2
-minecraft:mob/ravager/death3

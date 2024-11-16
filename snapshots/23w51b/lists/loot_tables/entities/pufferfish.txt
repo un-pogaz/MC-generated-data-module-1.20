@@ -1,3 +1,0 @@
-minecraft:pufferfish
-
-minecraft:bone_meal

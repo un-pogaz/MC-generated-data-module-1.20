@@ -1,2 +1,0 @@
-minecraft:mob/drowned/water/death1
-minecraft:mob/drowned/water/death2

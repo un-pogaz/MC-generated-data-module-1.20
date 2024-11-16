@@ -1,6 +1,0 @@
-minecraft:mob/bee/hurt1
-minecraft:mob/bee/hurt1
-minecraft:mob/bee/hurt2
-minecraft:mob/bee/hurt2
-minecraft:mob/bee/hurt3
-minecraft:mob/bee/hurt3

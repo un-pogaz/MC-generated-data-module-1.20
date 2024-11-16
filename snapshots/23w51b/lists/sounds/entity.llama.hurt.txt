@@ -1,3 +1,0 @@
-minecraft:mob/llama/hurt1
-minecraft:mob/llama/hurt2
-minecraft:mob/llama/hurt3

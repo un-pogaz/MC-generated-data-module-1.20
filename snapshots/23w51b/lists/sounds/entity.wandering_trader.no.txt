@@ -1,5 +1,0 @@
-minecraft:mob/wandering_trader/no1
-minecraft:mob/wandering_trader/no2
-minecraft:mob/wandering_trader/no3
-minecraft:mob/wandering_trader/no4
-minecraft:mob/wandering_trader/no5

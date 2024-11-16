@@ -1,3 +1,0 @@
-minecraft:block/cauldron/dye1
-minecraft:block/cauldron/dye2
-minecraft:block/cauldron/dye3

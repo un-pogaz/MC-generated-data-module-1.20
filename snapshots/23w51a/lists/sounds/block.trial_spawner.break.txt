@@ -1,3 +1,0 @@
-minecraft:block/trial_spawner/break1
-minecraft:block/trial_spawner/break2
-minecraft:block/trial_spawner/break3

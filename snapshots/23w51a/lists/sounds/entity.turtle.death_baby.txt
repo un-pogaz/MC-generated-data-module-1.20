@@ -1,2 +1,0 @@
-minecraft:mob/turtle/baby/death1
-minecraft:mob/turtle/baby/death2

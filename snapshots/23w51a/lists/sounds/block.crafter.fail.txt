@@ -1,3 +1,0 @@
-minecraft:block/crafter/fail
-minecraft:block/crafter/fail
-minecraft:block/crafter/fail

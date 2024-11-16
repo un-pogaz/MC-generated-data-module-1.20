@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "attenuation_distance": 8,
-      "name": "block/conduit/ambient"
-    }
-  ],
-  "subtitle": "subtitles.block.conduit.ambient"
-}

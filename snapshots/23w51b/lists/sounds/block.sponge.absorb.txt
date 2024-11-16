@@ -1,3 +1,0 @@
-minecraft:block/sponge/absorb1
-minecraft:block/sponge/absorb2
-minecraft:block/sponge/absorb3

@@ -1,3 +1,0 @@
-minecraft:mob/husk/idle1
-minecraft:mob/husk/idle2
-minecraft:mob/husk/idle3

@@ -1,2 +1,0 @@
-minecraft:mob/slime/attack1
-minecraft:mob/slime/attack2

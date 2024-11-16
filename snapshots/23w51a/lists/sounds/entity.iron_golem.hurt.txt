@@ -1,4 +1,0 @@
-minecraft:mob/irongolem/hit1
-minecraft:mob/irongolem/hit2
-minecraft:mob/irongolem/hit3
-minecraft:mob/irongolem/hit4

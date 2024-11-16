@@ -1,3 +1,0 @@
-minecraft:mob/phantom/death1
-minecraft:mob/phantom/death2
-minecraft:mob/phantom/death3

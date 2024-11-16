@@ -1,7 +1,0 @@
-{
-  "sounds": [
-    "mob/zombified_piglin/zpighurt1",
-    "mob/zombified_piglin/zpighurt2"
-  ],
-  "subtitle": "subtitles.entity.zombified_piglin.hurt"
-}

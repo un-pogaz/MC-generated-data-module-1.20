@@ -1,9 +1,0 @@
-minecraft:item/crossbow/shoot1
-minecraft:item/crossbow/shoot1
-minecraft:item/crossbow/shoot1
-minecraft:item/crossbow/shoot2
-minecraft:item/crossbow/shoot2
-minecraft:item/crossbow/shoot2
-minecraft:item/crossbow/shoot3
-minecraft:item/crossbow/shoot3
-minecraft:item/crossbow/shoot3

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/zombified_piglin/zpig1",
-    "mob/zombified_piglin/zpig2",
-    "mob/zombified_piglin/zpig3",
-    "mob/zombified_piglin/zpig4"
-  ],
-  "subtitle": "subtitles.entity.zombified_piglin.ambient"
-}

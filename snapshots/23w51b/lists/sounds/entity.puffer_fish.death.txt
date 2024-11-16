@@ -1,2 +1,0 @@
-minecraft:entity/pufferfish/death1
-minecraft:entity/pufferfish/death2

@@ -1,2 +1,0 @@
-minecraft:mob/fox/death1
-minecraft:mob/fox/death2

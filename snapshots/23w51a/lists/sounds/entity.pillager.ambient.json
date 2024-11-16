@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/pillager/idle1",
-    "mob/pillager/idle2",
-    "mob/pillager/idle3",
-    "mob/pillager/idle4"
-  ],
-  "subtitle": "subtitles.entity.pillager.ambient"
-}

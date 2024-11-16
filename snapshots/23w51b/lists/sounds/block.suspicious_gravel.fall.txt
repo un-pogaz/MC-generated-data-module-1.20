@@ -1,4 +1,0 @@
-minecraft:block/suspicious_gravel/step1
-minecraft:block/suspicious_gravel/step2
-minecraft:block/suspicious_gravel/step3
-minecraft:block/suspicious_gravel/step4

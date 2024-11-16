@@ -1,4 +1,0 @@
-minecraft:mob/magmacube/jump1
-minecraft:mob/magmacube/jump2
-minecraft:mob/magmacube/jump3
-minecraft:mob/magmacube/jump4

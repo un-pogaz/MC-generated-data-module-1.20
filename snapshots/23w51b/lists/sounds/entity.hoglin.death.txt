@@ -1,3 +1,0 @@
-minecraft:mob/hoglin/death1
-minecraft:mob/hoglin/death2
-minecraft:mob/hoglin/death3

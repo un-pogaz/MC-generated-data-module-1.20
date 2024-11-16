@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/strider/hurt1",
-    "mob/strider/hurt2",
-    "mob/strider/hurt3",
-    "mob/strider/hurt4"
-  ],
-  "subtitle": "subtitles.entity.strider.hurt"
-}

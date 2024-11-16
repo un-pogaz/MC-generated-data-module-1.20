@@ -1,3 +1,0 @@
-minecraft:mob/turtle/idle1
-minecraft:mob/turtle/idle2
-minecraft:mob/turtle/idle3

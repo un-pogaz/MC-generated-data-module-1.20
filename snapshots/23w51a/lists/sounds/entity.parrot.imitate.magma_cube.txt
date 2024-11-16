@@ -1,1 +1,0 @@
-minecraft:entity.magma_cube.squish

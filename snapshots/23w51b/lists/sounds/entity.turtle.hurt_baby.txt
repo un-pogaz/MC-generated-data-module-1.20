@@ -1,2 +1,0 @@
-minecraft:mob/turtle/baby/hurt1
-minecraft:mob/turtle/baby/hurt2

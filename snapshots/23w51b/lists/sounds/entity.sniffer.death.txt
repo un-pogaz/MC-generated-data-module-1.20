@@ -1,2 +1,0 @@
-minecraft:mob/sniffer/death1
-minecraft:mob/sniffer/death2

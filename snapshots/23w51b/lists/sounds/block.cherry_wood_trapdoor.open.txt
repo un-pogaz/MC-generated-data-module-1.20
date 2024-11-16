@@ -1,3 +1,0 @@
-minecraft:block/cherrywood_trapdoor/toggle1
-minecraft:block/cherrywood_trapdoor/toggle2
-minecraft:block/cherrywood_trapdoor/toggle3

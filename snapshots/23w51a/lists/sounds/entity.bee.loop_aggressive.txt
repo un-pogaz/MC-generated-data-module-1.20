@@ -1,3 +1,0 @@
-minecraft:mob/bee/aggressive1
-minecraft:mob/bee/aggressive2
-minecraft:mob/bee/aggressive3

@@ -1,2 +1,0 @@
-minecraft:written_book
-minecraft:writable_book

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "entity.skeleton.ambient",
-      "type": "event"
-    }
-  ],
-  "subtitle": "subtitles.entity.skeleton.ambient"
-}

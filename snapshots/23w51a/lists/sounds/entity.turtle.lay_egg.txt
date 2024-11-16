@@ -1,2 +1,0 @@
-minecraft:mob/turtle/egg/drop_egg1
-minecraft:mob/turtle/egg/drop_egg2

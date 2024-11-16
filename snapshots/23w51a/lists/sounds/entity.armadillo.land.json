@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/armadillo/land1",
-    "mob/armadillo/land2",
-    "mob/armadillo/land3",
-    "mob/armadillo/land4"
-  ],
-  "subtitle": "subtitles.entity.armadillo.land"
-}

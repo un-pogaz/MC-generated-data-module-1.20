@@ -1,3 +1,0 @@
-minecraft:mob/cat/beg1
-minecraft:mob/cat/beg2
-minecraft:mob/cat/beg3

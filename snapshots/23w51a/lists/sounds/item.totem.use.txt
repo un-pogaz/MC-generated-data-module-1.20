@@ -1,1 +1,0 @@
-minecraft:item/totem/use_totem

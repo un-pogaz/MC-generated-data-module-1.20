@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/turtle/baby/shamble1",
-    "mob/turtle/baby/shamble2",
-    "mob/turtle/baby/shamble3",
-    "mob/turtle/baby/shamble4"
-  ],
-  "subtitle": "subtitles.entity.turtle.shamble_baby"
-}

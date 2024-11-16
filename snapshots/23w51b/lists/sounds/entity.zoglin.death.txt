@@ -1,3 +1,0 @@
-minecraft:mob/zoglin/death1
-minecraft:mob/zoglin/death2
-minecraft:mob/zoglin/death3

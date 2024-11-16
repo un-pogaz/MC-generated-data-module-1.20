@@ -1,3 +1,0 @@
-minecraft:mob/drowned/water/hurt1
-minecraft:mob/drowned/water/hurt2
-minecraft:mob/drowned/water/hurt3

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "block.sign.waxed_interact_fail",
-      "type": "event"
-    }
-  ],
-  "subtitle": "subtitles.block.hanging_sign.waxed_interact_fail"
-}

@@ -1,3 +1,0 @@
-minecraft:totem_of_undying
-
-minecraft:emerald

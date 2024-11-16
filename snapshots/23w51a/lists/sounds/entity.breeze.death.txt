@@ -1,2 +1,0 @@
-minecraft:mob/breeze/death1
-minecraft:mob/breeze/death2

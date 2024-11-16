@@ -1,3 +1,0 @@
-minecraft:mob/parrot/hurt1
-minecraft:mob/parrot/hurt1
-minecraft:mob/parrot/hurt2

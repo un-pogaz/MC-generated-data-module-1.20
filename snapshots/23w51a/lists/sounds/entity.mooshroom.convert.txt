@@ -1,2 +1,0 @@
-minecraft:mob/mooshroom/convert1
-minecraft:mob/mooshroom/convert2

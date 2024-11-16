@@ -1,2 +1,0 @@
-minecraft:lily_pad
-minecraft:big_dripleaf

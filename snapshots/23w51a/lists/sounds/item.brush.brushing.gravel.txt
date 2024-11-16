@@ -1,4 +1,0 @@
-minecraft:item/brush/brushing_gravel1
-minecraft:item/brush/brushing_gravel2
-minecraft:item/brush/brushing_gravel3
-minecraft:item/brush/brushing_gravel4

@@ -1,3 +1,0 @@
-minecraft:block/beacon/power1
-minecraft:block/beacon/power2
-minecraft:block/beacon/power3

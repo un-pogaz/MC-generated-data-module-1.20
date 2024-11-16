@@ -1,7 +1,0 @@
-minecraft:emerald
-minecraft:cod
-minecraft:salmon
-minecraft:water_bucket
-minecraft:barrel
-minecraft:wheat_seeds
-minecraft:coal

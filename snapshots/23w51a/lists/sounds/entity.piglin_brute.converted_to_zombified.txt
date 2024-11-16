@@ -1,2 +1,0 @@
-minecraft:mob/piglin/converted1
-minecraft:mob/piglin/converted2

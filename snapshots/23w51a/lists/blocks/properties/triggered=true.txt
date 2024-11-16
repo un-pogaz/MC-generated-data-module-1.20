@@ -1,3 +1,0 @@
-minecraft:crafter
-minecraft:dispenser
-minecraft:dropper

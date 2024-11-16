@@ -1,6 +1,0 @@
-minecraft:emerald
-minecraft:arrow
-minecraft:feather
-minecraft:egg
-minecraft:flint
-minecraft:stick

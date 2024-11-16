@@ -1,2 +1,0 @@
-minecraft:item/trident/thunder1
-minecraft:item/trident/thunder2

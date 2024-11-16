@@ -1,1 +1,0 @@
-minecraft:ambient/nether/warped_forest/ambience

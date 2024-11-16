@@ -1,2 +1,0 @@
-minecraft:mob/turtle/egg/egg_break1
-minecraft:mob/turtle/egg/egg_break2

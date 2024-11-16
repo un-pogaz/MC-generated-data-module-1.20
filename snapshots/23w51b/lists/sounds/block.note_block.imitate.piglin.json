@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "entity.piglin.ambient",
-      "type": "event"
-    }
-  ],
-  "subtitle": "subtitles.entity.piglin.ambient"
-}

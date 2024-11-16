@@ -1,2 +1,0 @@
-minecraft:mob/horse/donkey/angry1
-minecraft:mob/horse/donkey/angry2

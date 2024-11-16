@@ -1,4 +1,0 @@
-minecraft:block/suspicious_gravel/place1
-minecraft:block/suspicious_gravel/place2
-minecraft:block/suspicious_gravel/place3
-minecraft:block/suspicious_gravel/place4

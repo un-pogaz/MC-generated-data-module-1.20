@@ -1,2 +1,0 @@
-minecraft:mob/husk/hurt1
-minecraft:mob/husk/hurt2

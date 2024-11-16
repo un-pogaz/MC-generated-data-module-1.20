@@ -1,2 +1,0 @@
-minecraft:mob/evocation_illager/hurt1
-minecraft:mob/evocation_illager/hurt2

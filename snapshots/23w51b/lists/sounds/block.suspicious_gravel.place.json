@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "block/suspicious_gravel/place1",
-    "block/suspicious_gravel/place2",
-    "block/suspicious_gravel/place3",
-    "block/suspicious_gravel/place4"
-  ],
-  "subtitle": "subtitles.block.generic.place"
-}

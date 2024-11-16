@@ -1,3 +1,0 @@
-minecraft:block/chest/close1
-minecraft:block/chest/close2
-minecraft:block/chest/close3

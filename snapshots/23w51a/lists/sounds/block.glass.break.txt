@@ -1,3 +1,0 @@
-minecraft:random/glass1
-minecraft:random/glass2
-minecraft:random/glass3

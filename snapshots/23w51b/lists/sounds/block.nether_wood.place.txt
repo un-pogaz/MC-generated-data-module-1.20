@@ -1,4 +1,0 @@
-minecraft:block/nether_wood/break1
-minecraft:block/nether_wood/break2
-minecraft:block/nether_wood/break3
-minecraft:block/nether_wood/break4

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "entity.tropical_fish.flop",
-      "type": "event"
-    }
-  ],
-  "subtitle": "subtitles.entity.tadpole.flop"
-}

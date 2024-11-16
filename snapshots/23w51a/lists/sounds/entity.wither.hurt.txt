@@ -1,4 +1,0 @@
-minecraft:mob/wither/hurt1
-minecraft:mob/wither/hurt2
-minecraft:mob/wither/hurt3
-minecraft:mob/wither/hurt4

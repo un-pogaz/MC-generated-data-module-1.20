@@ -1,2 +1,0 @@
-minecraft:mob/cat/eat1
-minecraft:mob/cat/eat2

@@ -1,3 +1,0 @@
-minecraft:block/respawn_anchor/charge1
-minecraft:block/respawn_anchor/charge2
-minecraft:block/respawn_anchor/charge3

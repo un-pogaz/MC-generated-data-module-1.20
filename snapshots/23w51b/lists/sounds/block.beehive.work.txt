@@ -1,4 +1,0 @@
-minecraft:block/beehive/work1
-minecraft:block/beehive/work2
-minecraft:block/beehive/work3
-minecraft:block/beehive/work4

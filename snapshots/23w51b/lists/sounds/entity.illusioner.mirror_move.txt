@@ -1,2 +1,0 @@
-minecraft:mob/illusion_illager/mirror_move1
-minecraft:mob/illusion_illager/mirror_move2

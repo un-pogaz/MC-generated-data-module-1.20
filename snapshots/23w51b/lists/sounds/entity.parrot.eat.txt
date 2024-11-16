@@ -1,3 +1,0 @@
-minecraft:mob/parrot/eat1
-minecraft:mob/parrot/eat2
-minecraft:mob/parrot/eat3

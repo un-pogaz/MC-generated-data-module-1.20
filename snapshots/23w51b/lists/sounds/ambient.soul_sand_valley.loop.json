@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "ambient/nether/soulsand_valley/ambience",
-      "stream": true,
-      "volume": 0.85
-    }
-  ]
-}

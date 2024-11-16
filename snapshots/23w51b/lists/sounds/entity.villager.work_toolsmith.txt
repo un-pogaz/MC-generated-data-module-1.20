@@ -1,3 +1,0 @@
-minecraft:block/smithing_table/smithing_table1
-minecraft:block/smithing_table/smithing_table2
-minecraft:block/smithing_table/smithing_table3

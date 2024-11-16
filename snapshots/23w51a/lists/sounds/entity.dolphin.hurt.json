@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/dolphin/hurt1",
-    "mob/dolphin/hurt2",
-    "mob/dolphin/hurt3"
-  ],
-  "subtitle": "subtitles.entity.dolphin.hurt"
-}

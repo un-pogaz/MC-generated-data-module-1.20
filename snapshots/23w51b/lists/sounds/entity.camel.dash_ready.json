@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "mob/camel/dash_ready1",
-      "volume": 0.25
-    }
-  ],
-  "subtitle": "subtitles.entity.camel.dash_ready"
-}

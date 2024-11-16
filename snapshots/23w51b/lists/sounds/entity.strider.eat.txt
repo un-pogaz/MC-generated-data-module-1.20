@@ -1,3 +1,0 @@
-minecraft:mob/strider/eat1
-minecraft:mob/strider/eat2
-minecraft:mob/strider/eat3

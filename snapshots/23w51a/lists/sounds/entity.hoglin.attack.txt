@@ -1,4 +1,0 @@
-minecraft:mob/hoglin/attack1
-minecraft:mob/hoglin/attack1
-minecraft:mob/hoglin/attack2
-minecraft:mob/hoglin/attack2

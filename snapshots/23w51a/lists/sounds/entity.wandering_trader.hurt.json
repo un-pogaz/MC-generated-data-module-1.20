@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/wandering_trader/hurt1",
-    "mob/wandering_trader/hurt2",
-    "mob/wandering_trader/hurt3",
-    "mob/wandering_trader/hurt4"
-  ],
-  "subtitle": "subtitles.entity.wandering_trader.hurt"
-}

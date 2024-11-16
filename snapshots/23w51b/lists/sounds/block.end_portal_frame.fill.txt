@@ -1,3 +1,0 @@
-minecraft:block/end_portal/eyeplace1
-minecraft:block/end_portal/eyeplace2
-minecraft:block/end_portal/eyeplace3

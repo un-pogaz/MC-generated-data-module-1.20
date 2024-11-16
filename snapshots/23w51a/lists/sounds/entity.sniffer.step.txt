@@ -1,6 +1,0 @@
-minecraft:mob/sniffer/step1
-minecraft:mob/sniffer/step2
-minecraft:mob/sniffer/step3
-minecraft:mob/sniffer/step4
-minecraft:mob/sniffer/step5
-minecraft:mob/sniffer/step6

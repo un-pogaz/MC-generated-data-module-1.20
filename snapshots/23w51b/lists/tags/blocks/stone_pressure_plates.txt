@@ -1,2 +1,0 @@
-minecraft:stone_pressure_plate
-minecraft:polished_blackstone_pressure_plate

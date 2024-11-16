@@ -1,3 +1,0 @@
-minecraft:mob/cat/hiss1
-minecraft:mob/cat/hiss2
-minecraft:mob/cat/hiss3

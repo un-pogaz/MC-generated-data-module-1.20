@@ -1,3 +1,0 @@
-minecraft:mob/wandering_trader/haggle1
-minecraft:mob/wandering_trader/haggle2
-minecraft:mob/wandering_trader/haggle3

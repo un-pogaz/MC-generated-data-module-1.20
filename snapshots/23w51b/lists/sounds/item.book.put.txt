@@ -1,2 +1,0 @@
-minecraft:item/book/close_put1
-minecraft:item/book/close_put2

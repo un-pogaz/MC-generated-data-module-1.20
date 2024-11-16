@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/polarbear/hurt1",
-    "mob/polarbear/hurt2",
-    "mob/polarbear/hurt3",
-    "mob/polarbear/hurt4"
-  ],
-  "subtitle": "subtitles.entity.polar_bear.hurt"
-}
